@@ -5,4 +5,5 @@ This is Jupyter notebook templates for kaggle.
 - Python 3.x
 
 ## Templates
-- [lightgbm with optuna tuning and cross validation](optuna-lightgbm-cv.ipynb)
+- [lightgbm with optuna tuning](optuna-lightgbm-cv.ipynb)
+- [SVM with optuna tuning](optuna-svm-cv.ipynb)
