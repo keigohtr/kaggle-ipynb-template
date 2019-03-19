@@ -5,7 +5,7 @@ This is Jupyter notebook templates for kaggle.
 - Python 3.x
 
 ## Templates
-- [lightgbm with optuna tuning](optuna-lightgbm-cv.ipynb)
-- [SVM with optuna tuning](optuna-svm-cv.ipynb)
-- [PCA + lightgbm with optuna tuning](optuna-pca-lightgbm-cv.ipynb)
-- [SVD + lightgbm with optuna tuning](optuna-svd-lightgbm-cv.ipynb)
+- [lightgbm gbdt with optuna tuning](lightgbm-gbdt.ipynb)
+- [LinearSVR with optuna tuning](linearsvr.ipynb)
+- [PCA + lightgbm gbdt with optuna tuning](pca-lightgbm-gbdt.ipynb)
+- [SVD + lightgbm gbdt with optuna tuning](svd-lightgbm-gbdt.ipynb)
